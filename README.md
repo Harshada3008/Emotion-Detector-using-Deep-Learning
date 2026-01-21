@@ -1,4 +1,7 @@
 # Emotion-Detector-using-Deep-Learning
+<img width="791" height="633" alt="Screenshot 2026-01-21 103401" src="https://github.com/user-attachments/assets/4552a0d5-c42e-4d6d-83f7-a7cd7c7d9ce2" />
+
+
 Developed a real-time emotion detection system using DeepFace and OpenCV. The application analyzes facial expressions from images or live webcam feed to classify emotions such as happy, sad, angry, fear, surprise, and neutral. Implemented face detection, emotion inference, and visual annotation.
 
 # Emotion Detector using Deep Learning
